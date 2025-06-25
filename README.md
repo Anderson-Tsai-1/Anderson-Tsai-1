@@ -1,5 +1,7 @@
 ### Hi there 👋
 I am Anderson Tsai, and I am a High Schooler transitioning into College at Texas A&M
+
+
 Within the next 6 months, I want to build a plane
 ![image](https://github.com/user-attachments/assets/22eaf2bb-d160-4ca2-8a3b-7b3e0acce4ee)
 
